@@ -1,1 +1,1 @@
-# JVM
+Simply java apps
